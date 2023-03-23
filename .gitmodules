@@ -8,3 +8,8 @@
 	url = https://github.com/larskotthoff/fselector
 	shallow = true
 	registered = true
+[submodule "llama"]
+	path = llama
+	url = https://github.com/cran/llama
+	shallow = true
+	registered = true
