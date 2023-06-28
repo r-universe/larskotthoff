@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FSelector"]
 	path = FSelector
 	url = https://github.com/larskotthoff/fselector
-	shallow = true
-	registered = true
 [submodule "llama"]
 	path = llama
 	url = https://github.com/cran/llama
-	shallow = true
-	registered = true
